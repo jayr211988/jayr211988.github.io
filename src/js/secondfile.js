@@ -1,0 +1,1 @@
+export let dataInSecondFile = "|Hi| Second file";
